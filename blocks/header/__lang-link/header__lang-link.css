@@ -9,9 +9,6 @@
   margin: 0;
   transition: 0.4s ease-in-out;
 }
-.header__lang-link_active {
-  text-decoration: underline;
-}
 .header__lang-link:hover {
   opacity: 0.3;
 }
