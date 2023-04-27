@@ -5,11 +5,11 @@
   font-size: 72px;
   line-height: 76px;
   text-align: center;
+  justify-self: center;
   grid-column: 1;
   grid-row: 1;
-  z-index: 1;
-  justify-self: center;
   align-self: end;
+  z-index: 1;
 }
 @media screen and (max-width: 767px) {
   .cover__title {
